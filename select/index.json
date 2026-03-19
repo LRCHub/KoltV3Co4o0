@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Mrs. Trendsetter",
+  "base_artist": "Lil Baby",
+  "createdAt": "2026-03-19T10:01:54.297768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mrs. Trendsetter",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/01_Mrs._Trendsetter_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mrs. Trendsetter (Audio)",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/02_Mrs._Trendsetter_(Audio)_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mrs. Trendsetter (Paused)",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/03_Mrs._Trendsetter_(Paused)_Lil_Baby.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mrs. Trendsetter",
+      "artist": "Lil Baby",
+      "has_synced": false,
+      "path": "select/pl_01_Mrs._Trendsetter_Lil_Baby.txt"
+    }
+  ]
+}
